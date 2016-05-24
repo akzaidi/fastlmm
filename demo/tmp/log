@@ -1,0 +1,26 @@
+
+
+FastLmmC v2.05.20130522 - Factored Spectrally Transformed Linear Mixed Models [Release]
+  Copyright Microsoft Corporation -- Licensed Only for Non-Commercial use.
+  Compiled May 22 2013 at 10:15:10 by BOBD01 for Windows
+  using MKL v10.03.07 - Build: 20111003
+
+ ++    Start Processing CommandLine:
+ --      End Processing CommandLine:
+
+ ++      Start Loading FastLmm Data:
+  ++        Start Loading Test Data:
+   ++      Processing PLINK fileset: [testmarkers]
+     Number of Individuals Selected:     204
+               Number of Phenotypes:       1
+                Number of SNPs Read:   22132
+                Number of SNPs Used:   22132
+   --  End Processing PLINK fileset: [testmarkers]
+  --          End Loading Test Data:
+
+ --        End Loading FastLmm Data:
+
+  Compute GWAS w/ Linear Regression:
+                LinReg elapsed time: 766.755 ms
+                  Write output file: [C:\D\Source\ERG01_extranet\CodeReleases\FLE\NatureMethods.12.16.2013\fastlmm-ewasher\demo\tmp\out_linreg.txt]
+                 Total elapsed time:  3.623 sec

@@ -1,0 +1,4 @@
+number of loci analyzed: 7848
+number of loci selected for the LMM: 300
+number of principal components used by FaST-LMM-EWASher: 2
+
